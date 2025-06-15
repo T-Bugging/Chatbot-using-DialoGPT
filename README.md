@@ -1,8 +1,10 @@
 Local Chatbot using DialoGPT
+
 📄 Project Summary
 This is a general-purpose conversational AI chatbot built using the pre-trained DialoGPT-medium model from Microsoft. The model runs locally on CPU using PyTorch and the Hugging Face Transformers library. It simulates human-like dialogue by maintaining chat history for context.
 
 🛠️ Features
+
 🤖 Uses DialoGPT-medium for generating natural replies. DialoGPT-medium is a 345 million parameter conversational AI model based on GPT-2, designed for generating human-like dialogue.
 
 🧠 Maintains short-term memory using tokenized chat history
